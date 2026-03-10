@@ -17,9 +17,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/halimkun/gsc"
-Repository = "https://github.com/halimkun/gsc"
-Issues = "https://github.com/halimkun/gsc/issues"
+Homepage = "https://github.com/halimkun/gsc-auto-indexing"
+Repository = "https://github.com/halimkun/gsc-auto-indexing"
+Issues = "https://github.com/halimkun/gsc-auto-indexing/issues"
 
 [project.scripts]
 gsc = "main:main"

@@ -4,7 +4,7 @@ GSC Auto Submit — CLI Entry Point
 Auto-submit URLs from sitemap.xml to Google Search Console via Indexing API.
 
 Author: halimkun (https://github.com/halimkun)
-Repository: https://github.com/halimkun/gsc
+Repository: https://github.com/halimkun/gsc-auto-indexing
 License: MIT
 
 Usage:

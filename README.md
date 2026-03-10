@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/halimkun/gsc.git
+git clone https://github.com/halimkun/gsc-auto-indexing.git
 cd gsc
 
 # Install dependencies
