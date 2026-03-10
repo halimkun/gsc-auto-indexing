@@ -1,0 +1,26 @@
+[project]
+name = "gsc"
+version = "0.1.0"
+description = "Auto submit URLs from sitemap.xml to Google Search Console"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+    { name = "halimkun", email = "halimkun@users.noreply.github.com" },
+]
+dependencies = [
+    "aiohttp>=3.9.0",
+    "google-api-python-client>=2.100.0",
+    "google-auth>=2.23.0",
+    "lxml>=5.0.0",
+    "rich>=13.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/halimkun/gsc"
+Repository = "https://github.com/halimkun/gsc"
+Issues = "https://github.com/halimkun/gsc/issues"
+
+[project.scripts]
+gsc = "main:main"
+

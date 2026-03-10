@@ -1,0 +1,9 @@
+[google]
+# Path to your Google Service Account JSON key file
+# You can create one at: https://console.cloud.google.com/iam-admin/serviceaccounts
+# Make sure to:
+# 1. Enable the "Web Search Indexing API" in Google Cloud Console
+# 2. Create a Service Account and download the JSON key
+# 3. Add the Service Account email as an Owner in Google Search Console
+#    (Search Console > Settings > Users and permissions > Add user)
+service_account_file = /path/to/service-account.json

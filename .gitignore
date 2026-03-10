@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# UV
+.venv/
+
+# Config (contains credentials)
+config.conf
+
+# Database
+data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Service Account
+*.json
