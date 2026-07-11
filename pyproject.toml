@@ -9,7 +9,7 @@ authors = [
     { name = "halimkun", email = "halimkun@users.noreply.github.com" },
 ]
 dependencies = [
-    "aiohttp>=3.9.0",
+    "aiohttp>=3.14.0",
     "google-api-python-client>=2.100.0",
     "google-auth>=2.23.0",
     "lxml>=5.0.0",
